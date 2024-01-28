@@ -128,6 +128,17 @@
     "sha256": "b035a641f366a02231ddd137842e760b20b9e6e4d99ecc20bea6cf999ed62331"
   },
   {
+    "name": "StableCode-3B",
+    "license_name": "STABILITY AI NON-COMMERCIAL RESEARCH COMMUNITY LICENSE",
+    "license_url": "https://huggingface.co/stabilityai/stable-code-3b/blob/main/LICENSE",
+    "prompt_template": "<fim_prefix>{prefix}<fim_suffix>{suffix}<fim_middle>",
+    "provider_url": "https://huggingface.co/stabilityai/stable-code-3b",
+    "urls": [
+      "https://huggingface.co/stabilityai/stable-code-3b/resolve/main/stable-code-3b-Q6_K.gguf"
+    ],
+    "sha256": "9749daf176491c33a7318660f1637c97674b0070d81740be8763b2811c495bfc"
+  },
+  {
     "name": "Magiccoder-6.7B",
     "license_name": "Deepseek License",
     "license_url": "https://huggingface.co/deepseek-ai/deepseek-coder/blob/main/LICENSE-MODEL",
