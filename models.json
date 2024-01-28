@@ -126,7 +126,7 @@
       "https://huggingface.co/TheBloke/stable-code-3b-GGUF/blob/main/stable-code-3b.Q8_0.gguf"
     ],
     "sha256": "b035a641f366a02231ddd137842e760b20b9e6e4d99ecc20bea6cf999ed62331"
-  }
+  },
   {
     "name": "Magiccoder-6.7B",
     "license_name": "Deepseek License",
