@@ -159,5 +159,15 @@
       "https://huggingface.co/TheBloke/WizardCoder-33B-V1.1-GGUF/resolve/main/wizardcoder-33b-v1.1.Q6_K.gguf"
     ],
     "sha256": "98fa5bbf869c008d97e622776cd3d49c3aa3475bafb692b384fcbb41dc55f1cf"
+  },
+  {
+    "name": "DeepseekCoder-7b-instruct-v1.5",
+    "license_name": "Deepseek License",
+    "license_url": "https://github.com/deepseek-ai/deepseek-coder/blob/main/LICENSE-MODEL",
+    "prompt_template": "<｜fim▁begin｜>{prefix}<｜fim▁hole｜>{suffix}<｜fim▁end｜>",
+    "provider_url": "https://huggingface.co/LoneStriker/deepseek-coder-7b-instruct-v1.5-GGUF/",
+    "urls": [
+      "https://huggingface.co/LoneStriker/deepseek-coder-7b-instruct-v1.5-GGUF/resolve/main/deepseek-coder-7b-instruct-v1.5-Q8_0.gguf"
+    ]
   }
 ]
